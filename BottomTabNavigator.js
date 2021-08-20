@@ -1,7 +1,7 @@
 import React from 'react';
 import { Image } from 'react-native';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
-import BookDonateScreen from '../screens/BookDonateScreen';
+import BookDonateScreen from './BookDonateScreen';
 import BookRequestScreen from '../screens/BookRequestScreen';
 
 
